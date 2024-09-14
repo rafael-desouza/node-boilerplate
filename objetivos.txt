@@ -1,0 +1,6 @@
+Ferramentas
+ - NODEJS
+ - TYPESCRIPT
+ - TSOA
+ - typerorm-fire
+ - express
